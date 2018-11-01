@@ -1826,7 +1826,9 @@ pre .javascript .function {
   color: #fff;
 }
 .links-of-author {
+  margin: 0 auto;
   margin-top: 20px;
+  width: 75%;
 }
 .links-of-author a,
 .links-of-author .exturl {
@@ -1846,7 +1848,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b0fe63;
+  background: #4b4f34;
 }
 .links-of-blogroll {
   font-size: 13px;
