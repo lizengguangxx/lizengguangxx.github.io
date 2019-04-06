@@ -38,24 +38,6 @@
   </entry>
   
   <entry>
-    <title>css3</title>
-    <link href="https://lizengguangxx.github.io/2018/11/01/css3/"/>
-    <id>https://lizengguangxx.github.io/2018/11/01/css3/</id>
-    <published>2018-11-01T10:53:33.000Z</published>
-    <updated>2018-11-01T10:55:16.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="知识积累" scheme="https://lizengguangxx.github.io/categories/%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF/"/>
-    
-    
-      <category term="css" scheme="https://lizengguangxx.github.io/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
     <title>babylon</title>
     <link href="https://lizengguangxx.github.io/2018/11/01/babylon/"/>
     <id>https://lizengguangxx.github.io/2018/11/01/babylon/</id>
@@ -79,29 +61,6 @@
       <category term="babylon" scheme="https://lizengguangxx.github.io/tags/babylon/"/>
     
       <category term="3D" scheme="https://lizengguangxx.github.io/tags/3D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的博客.</title>
-    <link href="https://lizengguangxx.github.io/2018/10/31/My-New-Post/"/>
-    <id>https://lizengguangxx.github.io/2018/10/31/My-New-Post/</id>
-    <published>2018-10-31T06:38:00.000Z</published>
-    <updated>2018-11-01T09:22:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>我的第一个博客，哈哈哈</p><p>正在配置中。。。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;我的第一个博客，哈哈哈&lt;/p&gt;
-&lt;p&gt;正在配置中。。。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
     
   </entry>
   
